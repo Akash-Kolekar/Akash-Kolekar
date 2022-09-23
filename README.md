@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akash-Kolekar
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Technology, Android development, Software devoplment
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on new stuff
+- 💞️ I’m looking to collaborate on new stuff, new projrcts
 - 📫 How to reach me You can email me on akashkolekar@gmail.com
 
 <!---
