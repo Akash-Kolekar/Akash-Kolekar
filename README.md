@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tokenizatioin of RWA.<br>👯 I’m looking to collaborate on  Smart Contract Development.<br>🤝 I’m looking for help with tokenization.<br>🌱 I’m currently learning Frontend Frameworks for blockchain integration with Svelte.<br>💬 Ask me about Solidity, Tokenization and Blockchain.<br>⚡ Buy BTC
+🔭 I’m currently working on Tokenizatioin of RWA.<br>👯 I’m looking to collaborate on  Smart Contract Development.<br>🤝 I’m looking for help with tokenization.<br>🌱 I’m currently learning Frontend Frameworks for blockchain integration with Svelte/Wagmi.<br>💬 Ask me about Solidity, Tokenization and Blockchain.<br>⚡ 
 
 
 ## 🌐 Socials:
